@@ -10,3 +10,5 @@ def wordcount(happy):
 def main():
 	happy = input("Enter a statement to word count: ")
 	wordcount(happy)
+
+main()
